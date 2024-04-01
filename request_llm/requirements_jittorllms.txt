@@ -5,3 +5,4 @@ torchvision
 transformers==4.26.1
 pandas
 jieba
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
