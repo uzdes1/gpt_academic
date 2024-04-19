@@ -1,6 +1,6 @@
 protobuf
 transformers>=4.27.1
 cpm_kernels
-torch>=1.10
+torch>=2.2.0
 mdtex2html
 sentencepiece
