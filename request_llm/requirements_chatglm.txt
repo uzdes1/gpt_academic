@@ -4,3 +4,4 @@ cpm_kernels
 torch>=1.10
 mdtex2html
 sentencepiece
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
